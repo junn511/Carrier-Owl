@@ -9,6 +9,8 @@ keywords:
         audio feature: 3
         noise removal: 2
         spectrogram: 3
+        music: 5
+        gan: 2
 
 # 通知の閾値
 score_threshold: 0
