@@ -11,6 +11,7 @@ keywords:
         spectrogram: 3
         music: 5
         gan: 2
+        vae:2
 
 # 通知の閾値
 score_threshold: 0
